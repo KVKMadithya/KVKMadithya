@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Madithya👋
 
-<!--
-**KVKMadithya/KVKMadithya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<strong>Software Engineering Undergraduate at NSBM Green University | Passionate Developer and Tech Enthusiast</strong><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy the process of building, learning, and improving. Love to share and to help the community with my work.<br/>
+
+🚀 Aspiring AI Engineer | Web & App Developer<br/>
+🧠 Turning ideas into code, and code into impact
+
+</div>
+
+![Madithya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KVKMadithya&show_icons=true&theme=gotham)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KVKMadithya&layout=compact&theme=gotham)
